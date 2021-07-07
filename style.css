@@ -1,0 +1,41 @@
+body {
+  background-color: #d8e1e2;
+}
+
+div.score {
+  width: 70px;
+  height: 8vh;
+  background-color: black;
+  color: red;
+  font-size: 5vh;
+  text-align: center;
+}
+
+.progress {
+  height: 1.5vh;
+  width: 50%;
+  background-color: #ee9b00;
+}
+
+div.big {
+  height: 10vh;
+}
+
+.small {
+  height: 6vh;
+}
+
+button.tile {
+  width: 100%;
+  min-width: 30px;
+  height: 100%;
+  font-size: 3vh;
+  font-style: bold;
+  background-color: #6c757d;
+  color: #6c757d;
+}
+
+button.big {
+  font-size: 2vmin;
+}
+/*# sourceMappingURL=style.css.map */
